@@ -285,17 +285,5 @@ the notebook and save them.
 -   `read_csv()` parameters let you control how a file is parsed and
     which data is loaded.
 
-## 📚 Topics
 
-`Python` · `Pandas` · `Data Analysis` · `CSV` · `File Handling` ·
-`Jupyter Notebook`
-
-## 👤 Author
-
-**Ansh Agrawal**
-
-------------------------------------------------------------------------
-
-This is a learning project for practicing basic data loading and storage
-operations with Pandas.
 
